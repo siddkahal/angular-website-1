@@ -37,6 +37,7 @@
 	background: green;
 	cursor: pointer;
 	margin-bottom: 20px;
+	margin-left: 20px;
 }
 
 .addEmployeeTitleContainer {
@@ -132,4 +133,8 @@
 
 .containerListItems {
 	display: flex;
+}
+
+.btn-dark {
+	margin-left: 20px;
 }
